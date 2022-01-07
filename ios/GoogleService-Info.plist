@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>997722786305-qiodcmdh4buf8puu5gp4j1jc9j9o2kui.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.997722786305-qiodcmdh4buf8puu5gp4j1jc9j9o2kui</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>997722786305-ds5ni5lh5f7kstsfn90b45s0j4oa0nl1.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDNeGxqRrmOo_V8Tbi10NhOu9F8en4Iroc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>997722786305</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.RNnextlearning</string>
+	<key>PROJECT_ID</key>
+	<string>nextlearning-505ce</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nextlearning-505ce.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:997722786305:ios:54acb782ce79e52f278e00</string>
+	<key>DATABASE_URL</key>
+	<string>https://nextlearning-505ce-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
