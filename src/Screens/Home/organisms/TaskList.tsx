@@ -1,7 +1,7 @@
 import React from 'react'
 import { ScrollView, Text, StyleSheet } from 'react-native'
 import { DailyTask } from 'src/utils/types/firestore'
-import TaskItem from '../organisms/TaskItem'
+import TaskItem from './TaskItem'
 import AddTaskBtn from '../atoms/AddTaskBtn'
 
 interface Props {
