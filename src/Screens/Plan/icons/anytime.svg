@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>ICON/timezone/anytime</title>
-    <g id="ICON/timezone/anytime" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="clock-fill" transform="translate(4.999980, 5.000000)" fill="#FFFFFF" fill-rule="nonzero">
-            <path d="M10.00004,8.8817842e-16 C4.4772,8.8817842e-16 -4.4408921e-16,4.477 -4.4408921e-16,10 C-4.4408921e-16,15.523 4.4772,20 10.00004,20 C15.52284,20 20.00004,15.523 20.00004,10 C20.00004,4.477 15.52284,8.8817842e-16 10.00004,8.8817842e-16 Z M10.00004,4 C10.55234,4 11.00004,4.448 11.00004,5 L11.00004,9.562 L13.71884,12.281 C14.10934,12.672 14.10934,13.328 13.71884,13.719 C13.32824,14.109 12.67184,14.109 12.28124,13.719 L9.28124,10.719 C9.09374,10.531 9.00004,10.265 9.00004,10 L9.00004,5 C9.00004,4.448 9.44774,4 10.00004,4 Z" id="Shape"></path>
-        </g>
-    </g>
-</svg>

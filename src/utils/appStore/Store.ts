@@ -4,7 +4,8 @@ import plannerReducer from './plannerSlice'
 const store = configureStore({
     reducer: {
         planner: plannerReducer
-    }
+    },
+    devTools: true
 })
 
 export default store

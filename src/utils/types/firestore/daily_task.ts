@@ -3,7 +3,7 @@
 
 // 1:N relationship with __DOC__PLANNER
 
-export type TimeOption = 'anytime' | 'morning' | 'afternoon' | 'night'
+import { TimeOption } from './common'
 
 export interface __DOC__DAILY_TASK {
     planner_id: string;

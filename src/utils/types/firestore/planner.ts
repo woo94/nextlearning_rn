@@ -1,4 +1,4 @@
-import { Category } from './common'
+import { Category, TimeOption } from './common'
 
 export interface __DOC__PLANNER {
     category: Category;
@@ -10,7 +10,7 @@ export interface __DOC__PLANNER {
     planner_id: string;
     task_group: string; // math / english / science
     task_subject: string; // 
-    time_option: string; // 
+    time_option: TimeOption; // 
     week_list: Array<number>; // 0 ~ 5
     year_month: string; // ex) 2021_9, 2021_10
 }
