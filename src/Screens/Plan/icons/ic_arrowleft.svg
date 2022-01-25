@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="6px" height="14px" viewBox="0 0 6 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_arrowleft</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ICON/header/Title_Back" transform="translate(-9.000000, -5.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="ic_arrowleft" transform="translate(8.999891, 4.998139)">
+                <path d="M4.80623,0.0246264714 C4.55623,0.0746264714 4.30523,0.200636471 4.15323,0.430636471 L0.16725,6.43064647 C-0.05575,6.76664647 -0.05575,7.21964647 0.16725,7.55564647 L4.15323,13.5556465 C4.45823,14.0146465 5.09623,14.1436465 5.55423,13.8366465 C6.01123,13.5306465 6.13923,12.8896465 5.83423,12.4306465 L2.22223,6.99264647 L5.83423,1.55562647 C6.13923,1.09562647 6.01123,0.455626471 5.55423,0.149626471 C5.32523,-0.00437352863 5.05623,-0.0263735286 4.80623,0.0246264714 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

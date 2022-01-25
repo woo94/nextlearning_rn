@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="27px" viewBox="0 0 27 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>time_anytime</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Monthly/task/time" transform="translate(-20.000000, -59.000000)">
+            <g id="time_anytime" transform="translate(20.000000, 59.000000)">
+                <g id="Stroke" fill="#D3D5DA">
+                    <rect x="1.04370117" y="1.04370117" width="24.9125977" height="24.9125977" rx="12.4562988"></rect>
+                </g>
+                <g id="Group" fill="#FFFFFF" fill-rule="nonzero">
+                    <g id="clock-fill" transform="translate(4.499982, 4.500000)">
+                        <path d="M9.000036,7.99360578e-16 C4.02948,7.99360578e-16 -3.99680289e-16,4.0293 -3.99680289e-16,9 C-3.99680289e-16,13.9707 4.02948,18 9.000036,18 C13.970556,18 18.000036,13.9707 18.000036,9 C18.000036,4.0293 13.970556,7.99360578e-16 9.000036,7.99360578e-16 Z M9.000036,3.6 C9.497106,3.6 9.900036,4.0032 9.900036,4.5 L9.900036,8.6058 L12.346956,11.0529 C12.698406,11.4048 12.698406,11.9952 12.346956,12.3471 C11.995416,12.6981 11.404656,12.6981 11.053116,12.3471 L8.353116,9.6471 C8.184366,9.4779 8.100036,9.2385 8.100036,9 L8.100036,4.5 C8.100036,4.0032 8.502966,3.6 9.000036,3.6 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
